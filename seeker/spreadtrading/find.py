@@ -11,7 +11,7 @@ import ccxt.pro
 
 from tabulate import tabulate
 
-from cli.utils import send_lark
+from seeker.utils import send_lark
 
 
 def load_ignore_spreads():
